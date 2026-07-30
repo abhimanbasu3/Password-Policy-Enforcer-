@@ -1,0 +1,46 @@
+{
+    "blocklist": [
+        "password123",
+        "admin123",
+        "qwerty",
+        "12345678",
+        "letmein1!"
+    ],
+    "users": [
+        {
+            "username": "abhi",
+            "email": "abhi@gmail.com",
+            "password_hash": "36e712c0b4c6ebe3b6256f0733fadb7c27ca21a5229e361b8908d7a6c0a68e2d"
+        },
+        {
+            "username": "abhiman",
+            "email": "abhiman@gmail.com",
+            "password_hash": "c2a6bdc4b9c7b0a120722bd7aee3ad4e9dec8e83698bd15576e52aa22dc44e76"
+        },
+        {
+            "username": "abhiman",
+            "email": "abhiman@gmail.com",
+            "password_hash": "e828bd377fbd4684651566dd68a160b4502803fe89e1f6cd4f16db4452c7e280"
+        },
+        {
+            "username": "abhiman",
+            "email": "abhiman@gmail.com",
+            "password_hash": "5606ac58e47c985f1f17dd5c69e656e36034eda65fa477ac58eaf728b66bb480"
+        },
+        {
+            "username": "abhiman",
+            "email": "abhiman@gmail.com",
+            "password_hash": "6fee052f2e9fd046d8b19b187e292cb80e62560458f3d53b2afe2513f67c81c8"
+        },
+        {
+            "username": "abhi",
+            "email": "abhi@gmail.com",
+            "password_hash": "1ef1d0fb2a8c3687500d344fb15e5404aedb0840594ad1888935a7eedf2cc3cb"
+        },
+        {
+            "username": "abhiman",
+            "email": "abhiman@gmail.com",
+            "password_hash": "0ed4ac5e40e6a1eee72ea62f1cceab9cba324d52e13cdeaee026865eb00e6819"
+        }
+    ]
+}
